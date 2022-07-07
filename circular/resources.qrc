@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Carros">
+    <file>Carros/web-logo-bible.png</file>
+    <file>Carros/aston-martin.png</file>
+    <file>Carros/Mercedes_benz_logo1989.png</file>
+    <file>Carros/Bugatti_logo.png</file>
+    <file>Carros/Ferrari-Logo.png</file>
+    <file>Carros/Lamborghini-Logo.png</file>
+    <file>Carros/Tesla_Motors.svg.png</file>
+    <file>Carros/Bugatti_Divo,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0029).jpg</file>
+    <file>Carros/ferrari-f8-3-9-spider-v8-bi-turbo-720cv_f0eb0c53718.jpg</file>
+    <file>Carros/lamborghini-urus-4-0-turbo-v8_f02ca605c36.jpeg</file>
+    <file>Carros/maxresdefault.jpg</file>
+    <file>Carros/Novo-Tesla-Roadster-2022 (1).jpeg</file>
+    <file>Carros/thumb-1920-883830.png</file>
+  </qresource>
+</RCC>
